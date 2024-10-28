@@ -1,0 +1,8 @@
+npm install express mongoose graphql express-graphql jsonwebtoken cors
+
+npm install express mongoose bcryptjs jsonwebtoken express-validator
+
+npm install express nodemailer socket.io
+
+npm install express mongoose
+
